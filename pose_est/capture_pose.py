@@ -4,7 +4,7 @@ import mediapipe as mp
 import pandas as pd
 
 # import numpy as np
-op_path = 'output/'
+op_path = '../output/'
 
 
 def start_capture(path=0, save_output=False):

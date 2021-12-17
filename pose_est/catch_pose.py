@@ -1,8 +1,7 @@
 import cv2
 import mediapipe as mp
 
-video_path = r'videos\young-man-walking-listening-to-music-from-his' \
-             r'-headphones.mp4'
+video_path = r'../videos/young-man-walking-listening-to-music-from-his-headphones.mp4'
 
 
 def catch_pose():
